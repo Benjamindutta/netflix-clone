@@ -6,7 +6,6 @@ import HomeScreen from './screens/HomeScreen';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
-  const user = null;
   return (
     <div className="app">
       <BrowserRouter>
